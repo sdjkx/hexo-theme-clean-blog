@@ -2,12 +2,14 @@
 menu:
   Home: /
   Archives: /archives
+  About me: /about
+  Feed: /feed
   Github:
     url: https://github.com/klugjo/hexo-theme-clean-blog
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title:  
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
@@ -18,21 +20,21 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: sdjkx
   # Facebook comments
-  facebook:
+  facebook: 
     appid:
     comment_count: 5
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-36213589-3
 
 # Addthis ID
 addthis:
 
 # Social Accounts
-twitter_url:
+twitter_url: https://twitter.com/sdjkx
 twitter_handle:
 facebook_url:
 github_url: https://github.com/klugjo/hexo-theme-clean-blog
